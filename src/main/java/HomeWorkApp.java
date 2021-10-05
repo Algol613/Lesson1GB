@@ -14,7 +14,7 @@ public class HomeWorkApp {
 
     public static void checkSumSign() {
         int a = 100;
-        int b = -155;
+        int b = 20;
         int result = a + b;
         if (result >= 0) {
             System.out.println("Сумма положительная");
